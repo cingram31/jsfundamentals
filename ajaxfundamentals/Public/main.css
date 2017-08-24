@@ -1,0 +1,17 @@
+body {
+	color: blue;
+}
+
+table {
+	table-layout: fixed;
+	width: 70%;
+	border-collapse: collapse;
+	border: 3px solid gray;
+}
+tr {
+	table-layout: fixed;
+	width: 70%;
+	border-collapse: collapse;
+	border: 3px solid gray;
+
+}
